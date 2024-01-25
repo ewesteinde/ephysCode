@@ -1,0 +1,5 @@
+0.000817 main [INF] Set process priority to HIGH!
+0.000913 ConfigParser::read [INF] Looking for config file: config_vid.txt ..
+0.001029 ConfigParser::read [ERR] Could not open config file for reading!
+0.001046 Trackball::Trackball [ERR] Error parsing config file (config_vid.txt)!
+0.001062 Trackball::~Trackball [INF] Closing sphere tracker
