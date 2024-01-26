@@ -17,6 +17,7 @@ Code base with 3 major functions:
 ### Raw signal acquisition
 - Analog voltage signals are converted to digital signals by a National Instruments DAQ
 ### Behaviour preprocessing
+![behaviour preprocessing example](\exampleImagesBehaviour_ex.png "behaviour preprocessing steps")
 - Behaviour data is collected at 60Hz.
 - Perform light filtering, unwrapping, unit conversion, and resampling as necessary to reduce noise but minimize signal distortion. 
 ### Ephy preprocessing 
