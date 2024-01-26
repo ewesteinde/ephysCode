@@ -28,4 +28,4 @@ Detect action potentials (spikes)
 ![ephys preprocessing step 1](https://github.com/ewesteinde/ephysCode/blob/main/exampleImages/spikedetection_5s.png "spike detection")
 Convert binary spikes to instantaneous firing rate, example shown uses a gaussian kernal.
 ![ephys preprocessing step 2](https://github.com/ewesteinde/ephysCode/blob/main/exampleImages/spikekernal_spikes_5s.png "firing rate conversion")
-Electrophysiological data is collected at 5kHz, resampled to 1kHz for usability and lightly filtered noise without distorting biological signals then detect action potentials (spikes) and convert to instantaneous firing rate. 
+Electrophysiology data is collected at 5kHz, resampled to 1kHz for usability and lightly filtered to remove noise without distorting biological signals. Finally action potentials (spikes) are detected and converted to instantaneous firing rate. 
