@@ -12,6 +12,8 @@ Code base with 3 major functions:
     - Contained in [Analysis_code](https://github.com/ewesteinde/ephysCode/tree/main/Analysis_code)
     - Unique to each cell type and experiment, a lot of test code & WIP, see WesteindeWilson2024 for examples.
       
+## Example signal preprocessing pipeline:
+
 ### Raw signal acquisition
 
 Communication between devices mediated by the Data Acquisition Toolbox with National Instruments support.
